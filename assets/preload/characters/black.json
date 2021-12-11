@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				419,
+				20
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SCREAM",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				511,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "derecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SUS ARRIBA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Black",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

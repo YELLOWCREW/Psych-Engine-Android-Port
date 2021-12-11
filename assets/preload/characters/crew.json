@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crewmate idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crewmate right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crewmate down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crewmate up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crewmate left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crewmate",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "truecrew",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

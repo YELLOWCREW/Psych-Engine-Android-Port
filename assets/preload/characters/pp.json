@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "portable pickle RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "portable pickle dOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "portable pickle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "portable pickle up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-190,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "portable pickle idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pickle",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

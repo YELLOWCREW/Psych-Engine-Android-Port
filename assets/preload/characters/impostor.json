@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Red Down Pose",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Red Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Red Left SIng",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Red Pose Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Red Sing Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "impostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		15,
+		40
+	],
+	"camera_position": [
+		-10,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
