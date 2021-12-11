@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Green Left"
+		},
+		{
+			"offsets": [
+				-210,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Green Right Sing"
+		},
+		{
+			"offsets": [
+				-185,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Green Sing Down"
+		},
+		{
+			"offsets": [
+				-285,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Green Up Pose"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Green Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/green_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "green",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		113,
+		47
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
