@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crewmate.png"><SubTexture name="crewmate idle0000" x="0" y="0" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0001" x="530" y="0" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0002" x="1060" y="0" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0003" x="1590" y="0" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0004" x="2120" y="0" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0005" x="0" y="485" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0006" x="530" y="485" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0007" x="1060" y="485" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0008" x="1590" y="485" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0009" x="2120" y="485" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0010" x="0" y="970" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0011" x="530" y="970" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0012" x="1060" y="970" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate idle0013" x="1590" y="970" width="530" height="485" frameX="0" frameY="0" frameWidth="530" frameHeight="485" />
+<SubTexture name="crewmate down0000" x="2120" y="970" width="581" height="435" frameX="0" frameY="0" frameWidth="581" frameHeight="435" />
+<SubTexture name="crewmate down0001" x="0" y="1455" width="581" height="435" frameX="0" frameY="0" frameWidth="581" frameHeight="435" />
+<SubTexture name="crewmate down0002" x="581" y="1455" width="581" height="435" frameX="0" frameY="0" frameWidth="581" frameHeight="435" />
+<SubTexture name="crewmate down0003" x="1162" y="1455" width="581" height="435" frameX="0" frameY="0" frameWidth="581" frameHeight="435" />
+<SubTexture name="crewmate left0000" x="1743" y="1455" width="653" height="468" frameX="0" frameY="0" frameWidth="653" frameHeight="468" />
+<SubTexture name="crewmate left0001" x="2396" y="1455" width="653" height="468" frameX="0" frameY="0" frameWidth="653" frameHeight="468" />
+<SubTexture name="crewmate left0002" x="0" y="1923" width="653" height="468" frameX="0" frameY="0" frameWidth="653" frameHeight="468" />
+<SubTexture name="crewmate left0003" x="653" y="1923" width="653" height="468" frameX="0" frameY="0" frameWidth="653" frameHeight="468" />
+<SubTexture name="crewmate right0000" x="1306" y="1923" width="665" height="469" frameX="0" frameY="0" frameWidth="665" frameHeight="469" />
+<SubTexture name="crewmate right0001" x="1971" y="1923" width="665" height="469" frameX="0" frameY="0" frameWidth="665" frameHeight="469" />
+<SubTexture name="crewmate right0002" x="2636" y="1923" width="665" height="469" frameX="0" frameY="0" frameWidth="665" frameHeight="469" />
+<SubTexture name="crewmate right0003" x="0" y="2392" width="665" height="469" frameX="0" frameY="0" frameWidth="665" frameHeight="469" />
+<SubTexture name="crewmate up0000" x="665" y="2392" width="513" height="518" frameX="0" frameY="0" frameWidth="513" frameHeight="518" />
+<SubTexture name="crewmate up0001" x="1178" y="2392" width="513" height="518" frameX="0" frameY="0" frameWidth="513" frameHeight="518" />
+<SubTexture name="crewmate up0002" x="1691" y="2392" width="513" height="518" frameX="0" frameY="0" frameWidth="513" frameHeight="518" />
+<SubTexture name="crewmate up0003" x="2204" y="2392" width="513" height="518" frameX="0" frameY="0" frameWidth="513" frameHeight="518" />
+</TextureAtlas>
